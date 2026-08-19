@@ -11,7 +11,7 @@ from flask import Flask, request, jsonify, render_template_string
 from telebot import types
 
 # ----------------- আপনার বোটের মূল সেটিংস -----------------
-BOT_TOKEN = "8305538092:AAEngUxVOgzk5UDQx74i4wjRXfVmKp1A88A"
+BOT_TOKEN = "8305538092:AAFSTufp-WJgux99zrQjcrdfzt1IDT87tEQ"
 SMMSUN_API_URL = "https://socialpanel.pro/api/v2"
 SMMSUN_API_KEY = "14f3163c337f51c7c90c6232d9428bc2"
 MAIN_ADMIN_ID = 6851638362 
