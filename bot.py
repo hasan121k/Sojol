@@ -12,7 +12,7 @@ from telebot import types
 
 # ----------------- আপনার বোটের মূল সেটিংস -----------------
 _p1 = "8305538092"
-_p2 = "AAFSTufp-WJgux99zrQjcrdfzt1IDT87tEQ"
+_p2 = "AAHtMyMifA0e5kY5IPVjvCb-t4L6JhfWiGU"
 BOT_TOKEN = os.environ.get("BOT_TOKEN", f"{_p1}:{_p2}")
 SMMSUN_API_URL = os.environ.get("SMMSUN_API_URL", "https://socialpanel.pro/api/v2")
 SMMSUN_API_KEY = os.environ.get("SMMSUN_API_KEY", "14f3163c337f51c7c90c6232d9428bc2")
